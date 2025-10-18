@@ -2,7 +2,7 @@
 
 ## What is this?
 
-Welcome to Github Readme Language (aka GH-Readme-Language).
+Welcome to Github Readme Language!
 
 This small project allows you to dynamically grab all languages that you have contributed on your or others' Github on README!
 
@@ -52,7 +52,7 @@ At any point if you are using public API provided by me, you'll possibily reach 
 
 Some info:
 + The project is running under node.js
-+ Github API key is needed to run. Create `.env` file with `GITHUB_TOKEN` environment variable.
++ Github API key is needed to run. Create `.env` file with `GITHUB_TOKEN` environment variable. The API Github key would be a PSA (Personal Access Token) that has "ghp_" as prefix.
 
 ## Support me
 
